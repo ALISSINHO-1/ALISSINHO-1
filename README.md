@@ -5,7 +5,7 @@
 
 <p align="center">
   <img
-    src="./baner.guithub"
+    src="./banner-github.png"
     width="100%"
     alt="Alisson Rodrigues - Software Developer"
   />
@@ -15,7 +15,7 @@
 
 ### ⚔️ `Software Developer • Wanderer of the Digital Realms`
 
-🜏 **Flutter** • 🩸 **Python** • 🕯️ **FastAPI** • 🏰 **PostgreSQL** • ⚒️ **Git**
+🜏 **Flutter** • 🐍 **Python** • 🩸 **FastAPI** • 🏰 **PostgreSQL** • ⚒️ **Git**
 
 > *“Aut viam inveniam aut faciam.”*  
 > **Encontrarei um caminho ou criarei um.**
@@ -36,15 +36,15 @@
 ║ Caminho         │ Software Engineering           ║
 ║ Especialidade   │ Front-end & Back-end           ║
 ║ Guilda          │ Engenharia de Software         ║
-║ Status          │ Evoluindo                      ║
+║ Status          │ Em evolução                    ║
 ╚══════════════════════════════════════════════════╝
 ```
 
 Desenvolvedor de software e estudante de **Engenharia de Software**, com experiência profissional em desenvolvimento de aplicações, manutenção e evolução de sistemas, APIs, bancos de dados e organização de demandas de software.
 
-Minha jornada passa principalmente por **Flutter, Dart, Python, FastAPI, PostgreSQL e SQL**, buscando construir aplicações que não apenas funcionem, mas que também possam ser compreendidas, mantidas e evoluídas.
+Minha jornada passa principalmente por **Flutter, Dart, Python, FastAPI, PostgreSQL e SQL**, buscando desenvolver aplicações que não apenas funcionem, mas que também possam ser compreendidas, mantidas e evoluídas.
 
-Porque fazer o código funcionar uma vez é fácil.
+Porque fazer o código funcionar uma vez é relativamente simples.
 
 **O verdadeiro chefe final aparece quando alguém precisa mexer nele seis meses depois.**
 
@@ -120,9 +120,9 @@ Alguns carregam um notebook, uma IDE e uma quantidade preocupante de abas aberta
 
 Minha jornada profissional começou na área de **Tecnologia da Informação**, trabalhando com suporte, infraestrutura e resolução de problemas.
 
-Nesse período aprendi uma das leis fundamentais da computação:
+Foi nesse período que descobri uma das leis fundamentais da computação:
 
-> Se alguém disser **“eu não mexi em nada”**, investigue imediatamente.
+> **Se alguém disser “eu não mexi em nada”, investigue imediatamente.**
 
 Posteriormente avancei para o **desenvolvimento de software**, trabalhando com aplicações corporativas, implementação de funcionalidades, manutenção de sistemas, integrações, APIs, bancos de dados e organização de demandas.
 
@@ -207,7 +207,7 @@ Eu aparentemente coleciono repositórios.
 
 ## ⚔️ FlowDesk
 
-Projeto desenvolvido para meu **portfólio profissional**, com foco na construção de uma aplicação organizada e na aplicação prática de conceitos de arquitetura e desenvolvimento com Flutter.
+Projeto desenvolvido para meu **portfólio profissional**, com foco em organização de código, arquitetura e desenvolvimento de aplicações utilizando Flutter.
 
 ```text
 ╔════════════════════════════════════════════╗
@@ -246,17 +246,17 @@ Projeto acadêmico desenvolvido para aplicação de conceitos de **Programação
 
 ---
 
-## 📚 OUTROS ARTEFATOS
+## 📚 Outros artefatos
 
 Este perfil também contém projetos acadêmicos, experimentos, estudos e aplicações criadas durante minha evolução como desenvolvedor.
 
 Nem todo repositório será uma espada lendária.
 
-Alguns são apenas aquele **cajado de madeira +1** que você encontra antes mesmo do tutorial explicar o inventário.
+Alguns são apenas aquele **cajado de madeira +1** que você encontra antes mesmo de o tutorial explicar como funciona o inventário.
 
 ---
 
-# 🔥 FILOSOFIA
+# 🩸 FILOSOFIA
 
 ```python
 while alive:
@@ -310,13 +310,23 @@ IX.   Construa.
 <div align="center">
 
 <img
-  height="170"
-  src="https://github-readme-stats.vercel.app/api?username=ALISSINHO-1&show_icons=true&hide_border=true&theme=transparent&hide_title=true"
+  width="100%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ALISSINHO-1&theme=github_dark"
+  alt="Detalhes da jornada"
+/>
+
+<br/>
+
+<img
+  height="180"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ALISSINHO-1&theme=github_dark"
+  alt="Estatísticas do GitHub"
 />
 
 <img
-  height="170"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALISSINHO-1&layout=compact&hide_border=true&theme=transparent"
+  height="180"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ALISSINHO-1&theme=github_dark"
+  alt="Linguagens utilizadas"
 />
 
 </div>
@@ -326,18 +336,18 @@ IX.   Construa.
 # 🎖️ CONQUISTAS
 
 ```text
-┌──────────────────────────────────────────────┐
-│                ACHIEVEMENTS                  │
-├──────────────────────────────────────────────┤
-│ ⚔ Primeiro contato com tecnologia      ✓    │
-│ 🛡 Experiência profissional em TI       ✓    │
-│ 🜏 Desenvolvimento profissional         ✓    │
-│ 🐍 Python / FastAPI                     ✓    │
-│ 🪽 Flutter / Dart                       ✓    │
-│ 🏰 PostgreSQL                           ✓    │
-│ 📜 Graduação                     Em progresso│
-│ 👑 Mestre da Engenharia                 Bloq.│
-└──────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────┐
+│                  ACHIEVEMENTS                    │
+├──────────────────────────────────────────────────┤
+│ ⚔  Entrada no reino da tecnologia          ✓    │
+│ 🛡  Experiência profissional em TI          ✓    │
+│ 🜏  Desenvolvimento profissional            ✓    │
+│ 🐍  Python / FastAPI                        ✓    │
+│ 🪽  Flutter / Dart                          ✓    │
+│ 🏰  PostgreSQL                              ✓    │
+│ 📜  Engenharia de Software        Em progresso  │
+│ 👑  Mestre da Engenharia              Bloqueado  │
+└──────────────────────────────────────────────────┘
 ```
 
 ---
@@ -346,7 +356,7 @@ IX.   Construa.
 
 <div align="center">
 
-### Encontre este viajante em outros reinos:
+### Encontre este viajante em outros reinos
 
 <a href="https://www.linkedin.com/in/alisson-rodrigues-biava-filho-504a32331/">
   <img src="https://img.shields.io/badge/LinkedIn-111118?style=for-the-badge&logo=linkedin&logoColor=white" />
