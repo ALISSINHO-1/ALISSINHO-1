@@ -1,52 +1,52 @@
 <!-- ========================================================= -->
 <!--                  ALISSON RODRIGUES                         -->
-<!--           Character Sheet • GitHub Profile                -->
+<!--        Gothic RPG Character Sheet • GitHub Profile        -->
 <!-- ========================================================= -->
 
 <p align="center">
   <img
-    src="./banner-github.png"
+    src="./baner.guithub"
     width="100%"
     alt="Alisson Rodrigues - Software Developer"
   />
 </p>
 
-<p align="center">
-  <strong>⚔️ Flutter</strong>
-  &nbsp;•&nbsp;
-  <strong>🜏 Python</strong>
-  &nbsp;•&nbsp;
-  <strong>🩸 FastAPI</strong>
-  &nbsp;•&nbsp;
-  <strong>🏰 PostgreSQL</strong>
-  &nbsp;•&nbsp;
-  <strong>⚒️ Git</strong>
-</p>
+<div align="center">
+
+### ⚔️ `Software Developer • Wanderer of the Digital Realms`
+
+🜏 **Flutter** • 🩸 **Python** • 🕯️ **FastAPI** • 🏰 **PostgreSQL** • ⚒️ **Git**
+
+> *“Aut viam inveniam aut faciam.”*  
+> **Encontrarei um caminho ou criarei um.**
+
+</div>
 
 ---
 
 # 🕯️ CRÔNICAS DO VIAJANTE
 
 ```text
-╔════════════════════════════════════════════════╗
-║               CHARACTER RECORD                 ║
-╠════════════════════════════════════════════════╣
-║ Nome           │ Alisson Rodrigues             ║
-║ Classe         │ Software Developer            ║
-║ Especialidade  │ Flutter • Python • FastAPI    ║
-║ Caminho        │ Software Engineering          ║
-║ Guilda         │ Engenharia de Software        ║
-║ Status         │ Em evolução                   ║
-╚════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════╗
+║                CHARACTER RECORD                  ║
+╠══════════════════════════════════════════════════╣
+║ Nome            │ Alisson Rodrigues              ║
+║ Classe          │ Software Developer             ║
+║ Subclasse       │ Flutter Developer              ║
+║ Caminho         │ Software Engineering           ║
+║ Especialidade   │ Front-end & Back-end           ║
+║ Guilda          │ Engenharia de Software         ║
+║ Status          │ Evoluindo                      ║
+╚══════════════════════════════════════════════════╝
 ```
 
-Sou desenvolvedor de software e estudante de **Engenharia de Software**, com experiência profissional em desenvolvimento de aplicações, manutenção de sistemas, APIs, banco de dados e organização de demandas de software.
+Desenvolvedor de software e estudante de **Engenharia de Software**, com experiência profissional em desenvolvimento de aplicações, manutenção e evolução de sistemas, APIs, bancos de dados e organização de demandas de software.
 
-Minha jornada passa principalmente por **Flutter, Dart, Python, FastAPI, PostgreSQL e SQL**, buscando construir aplicações que não apenas funcionem, mas que também possam ser entendidas e mantidas depois.
+Minha jornada passa principalmente por **Flutter, Dart, Python, FastAPI, PostgreSQL e SQL**, buscando construir aplicações que não apenas funcionem, mas que também possam ser compreendidas, mantidas e evoluídas.
 
 Porque fazer o código funcionar uma vez é fácil.
 
-O verdadeiro chefe final aparece quando alguém precisa mexer nele seis meses depois.
+**O verdadeiro chefe final aparece quando alguém precisa mexer nele seis meses depois.**
 
 ---
 
@@ -56,18 +56,22 @@ O verdadeiro chefe final aparece quando alguém precisa mexer nele seis meses de
 ╭──────────────────────────────────────────────╮
 │               CHARACTER STATS                │
 ├──────────────────────┬───────────────────────┤
-│ Desenvolvimento      │ ████████░░            │
 │ Lógica               │ █████████░            │
+│ Persistência         │ ██████████            │
+│ Criatividade         │ ████████░░            │
+│ Desenvolvimento      │ ████████░░            │
 │ Backend              │ ███████░░░            │
 │ Banco de Dados       │ ████████░░            │
-│ Git / Versionamento  │ ████████░░            │
 │ Organização          │ ████████░░            │
 │ Aprendizado          │ █████████░            │
-│ Persistência         │ ██████████            │
+│ Comunicação          │ ████████░░            │
+│ Café                 │ ██████████  ???       │
 ╰──────────────────────┴───────────────────────╯
 ```
 
-> Os atributos acima representam minhas áreas de maior familiaridade e estudo, não algum sistema científico de medição criado por magos do RH.
+> Os atributos representam minhas principais áreas de experiência, estudo e evolução.
+
+> ☕ O nível de café permanece além da capacidade de medição das ciências modernas.
 
 ---
 
@@ -110,15 +114,23 @@ O verdadeiro chefe final aparece quando alguém precisa mexer nele seis meses de
 
 # 📜 LORE
 
+> *Nem todo aventureiro carrega uma espada.*
+
+Alguns carregam um notebook, uma IDE e uma quantidade preocupante de abas abertas.
+
 Minha jornada profissional começou na área de **Tecnologia da Informação**, trabalhando com suporte, infraestrutura e resolução de problemas.
 
-Posteriormente, avancei para o **desenvolvimento de software**, trabalhando com aplicações corporativas, implementação de funcionalidades, manutenção de sistemas, integrações, APIs e bancos de dados.
+Nesse período aprendi uma das leis fundamentais da computação:
 
-Hoje continuo expandindo esse caminho por meio da graduação em **Engenharia de Software**, estudos e projetos próprios.
+> Se alguém disser **“eu não mexi em nada”**, investigue imediatamente.
+
+Posteriormente avancei para o **desenvolvimento de software**, trabalhando com aplicações corporativas, implementação de funcionalidades, manutenção de sistemas, integrações, APIs, bancos de dados e organização de demandas.
+
+Hoje continuo expandindo esse caminho através da graduação em **Engenharia de Software**, estudos e projetos próprios voltados para desenvolvimento web, mobile e backend.
 
 ```text
                    ┌─────────────────┐
-                   │      INÍCIO      │
+                   │     PRÓLOGO      │
                    └────────┬────────┘
                             │
                             ▼
@@ -160,19 +172,19 @@ Hoje continuo expandindo esse caminho por meio da graduação em **Engenharia de
 ## ✅ Missões concluídas
 
 - [x] Entrar no reino da Tecnologia
-- [x] Trabalhar profissionalmente com suporte de TI
-- [x] Trabalhar profissionalmente com desenvolvimento de software
+- [x] Trabalhar profissionalmente com suporte e infraestrutura
+- [x] Ingressar profissionalmente no desenvolvimento de software
 - [x] Desenvolver aplicações utilizando Flutter
 - [x] Trabalhar com Dart
 - [x] Construir e consumir APIs REST
-- [x] Desenvolver backend com Python e FastAPI
+- [x] Desenvolver backend utilizando Python e FastAPI
 - [x] Trabalhar com PostgreSQL e SQL
-- [x] Utilizar Git e GitHub em projetos
+- [x] Utilizar Git e GitHub em projetos reais
 - [x] Trabalhar com organização de demandas e metodologias ágeis
 
 ## 🕯️ Missões em andamento
 
-- [ ] Construir um portfólio profissional forte
+- [ ] Fortalecer meu portfólio profissional
 - [ ] Aprofundar conhecimentos em arquitetura de software
 - [ ] Evoluir práticas de testes automatizados
 - [ ] Expandir conhecimentos em DevOps
@@ -185,66 +197,117 @@ Hoje continuo expandindo esse caminho por meio da graduação em **Engenharia de
 
 # 🏰 ARQUIVO DE ARTEFATOS
 
-> Alguns aventureiros colecionam espadas lendárias.  
-> Eu aparentemente coleciono repositórios.
+> **Arquivo das obras, experimentos e artefatos construídos durante a jornada.**
 
-### ⚔️ FlowDesk
+Alguns aventureiros colecionam espadas lendárias.
 
-Sistema desenvolvido como projeto de portfólio, focado em aplicação prática de arquitetura, organização de código e desenvolvimento com Flutter.
-
-`Flutter` • `Dart` • `Software Architecture`
+Eu aparentemente coleciono repositórios.
 
 ---
 
-### 🧙 Automatize
+## ⚔️ FlowDesk
 
-Projeto acadêmico envolvendo desenvolvimento de software e aplicação de conceitos de Programação Orientada a Objetos.
+Projeto desenvolvido para meu **portfólio profissional**, com foco na construção de uma aplicação organizada e na aplicação prática de conceitos de arquitetura e desenvolvimento com Flutter.
+
+```text
+╔════════════════════════════════════════════╗
+║               ITEM RECORD                  ║
+╠════════════════════════════════════════════╣
+║ Nome        │ FlowDesk                     ║
+║ Tipo        │ Aplicação                    ║
+║ Tecnologia  │ Flutter / Dart               ║
+║ Categoria   │ Portfolio Project            ║
+║ Status      │ Em desenvolvimento           ║
+╚════════════════════════════════════════════╝
+```
+
+`Flutter` • `Dart` • `Architecture` • `UI`
+
+---
+
+## 🧙 Automatize
+
+Projeto acadêmico desenvolvido para aplicação de conceitos de **Programação Orientada a Objetos** e Engenharia de Software.
+
+```text
+╔════════════════════════════════════════════╗
+║               ITEM RECORD                  ║
+╠════════════════════════════════════════════╣
+║ Nome        │ Automatize                   ║
+║ Tipo        │ Projeto acadêmico            ║
+║ Tecnologia  │ Python                       ║
+║ Foco        │ Programação Orientada        ║
+║             │ a Objetos                    ║
+║ Status      │ Em desenvolvimento           ║
+╚════════════════════════════════════════════╝
+```
 
 `Python` • `POO` • `Software Engineering`
 
 ---
 
-### 📚 Outros projetos
+## 📚 OUTROS ARTEFATOS
 
-Este perfil também contém projetos acadêmicos, experimentos, estudos e aplicações utilizadas durante minha evolução como desenvolvedor.
+Este perfil também contém projetos acadêmicos, experimentos, estudos e aplicações criadas durante minha evolução como desenvolvedor.
 
-Projetos mais completos e relevantes serão destacados conforme forem finalizados.
+Nem todo repositório será uma espada lendária.
+
+Alguns são apenas aquele **cajado de madeira +1** que você encontra antes mesmo do tutorial explicar o inventário.
 
 ---
 
-# 🔥 PRINCÍPIOS DO CÓDIGO
+# 🔥 FILOSOFIA
 
 ```python
 while alive:
-    study()
+    learn()
     build()
-    fail()
-    understand()
-    improve()
+
+    try:
+        improve()
+
+    except Failure:
+        understand()
+        try_again()
 ```
 
+> **Conhecimento sem aplicação é apenas um grimório fechado.**
+
+---
+
+# ☠️ CÓDIGO DO VIAJANTE
+
 ```text
-I.    Entenda antes de copiar.
+I.    Aprenda antes de fingir que sabe.
 
 II.   Não complique o que pode ser simples.
 
-III.  Código é escrito uma vez e lido inúmeras vezes.
+III.  Código será lido mais vezes do que será escrito.
 
 IV.   Um erro compreendido vale mais que uma solução copiada.
 
 V.    Versione antes de descobrir por que deveria ter versionado.
 
-VI.   Questione soluções que existem apenas porque
+VI.   Questione arquiteturas que existem apenas porque
       "sempre foi feito assim".
 
-VII.  Construa. Quebre. Entenda. Reconstrua.
+VII.  Não confie cegamente em código que
+      "funciona na minha máquina".
+
+VIII. Código limpo não é luxo.
+      É misericórdia para quem vier depois.
+
+IX.   Construa.
+      Quebre.
+      Entenda.
+      Reconstrua.
 ```
 
 ---
 
 # 📊 REGISTROS DA JORNADA
 
-<p align="center">
+<div align="center">
 
 <img
   height="170"
@@ -256,13 +319,34 @@ VII.  Construa. Quebre. Entenda. Reconstrua.
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALISSINHO-1&layout=compact&hide_border=true&theme=transparent"
 />
 
-</p>
+</div>
+
+---
+
+# 🎖️ CONQUISTAS
+
+```text
+┌──────────────────────────────────────────────┐
+│                ACHIEVEMENTS                  │
+├──────────────────────────────────────────────┤
+│ ⚔ Primeiro contato com tecnologia      ✓    │
+│ 🛡 Experiência profissional em TI       ✓    │
+│ 🜏 Desenvolvimento profissional         ✓    │
+│ 🐍 Python / FastAPI                     ✓    │
+│ 🪽 Flutter / Dart                       ✓    │
+│ 🏰 PostgreSQL                           ✓    │
+│ 📜 Graduação                     Em progresso│
+│ 👑 Mestre da Engenharia                 Bloq.│
+└──────────────────────────────────────────────┘
+```
 
 ---
 
 # 🦇 PORTAIS
 
-<p align="center">
+<div align="center">
+
+### Encontre este viajante em outros reinos:
 
 <a href="https://www.linkedin.com/in/alisson-rodrigues-biava-filho-504a32331/">
   <img src="https://img.shields.io/badge/LinkedIn-111118?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -272,14 +356,18 @@ VII.  Construa. Quebre. Entenda. Reconstrua.
   <img src="https://img.shields.io/badge/GitHub-111118?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-</p>
+</div>
 
 ---
 
 <div align="center">
 
-### ☾ MEMENTO MORI ☽
+### ☾ `MEMENTO MORI` ☽
 
-`CODE • LEARN • BUILD • EVOLVE`
+> *Aut viam inveniam aut faciam.*
+
+### `CODE • LEARN • BUILD • FAIL • UNDERSTAND • EVOLVE`
+
+⚔️
 
 </div>
