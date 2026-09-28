@@ -1,57 +1,73 @@
-<div align="center">
+<!-- ========================================================= -->
+<!--                  ALISSON RODRIGUES                         -->
+<!--           Character Sheet • GitHub Profile                -->
+<!-- ========================================================= -->
 
-# ☾ ALISSON RODRIGUES ☽
+<p align="center">
+  <img
+    src="./banner-github.png"
+    width="100%"
+    alt="Alisson Rodrigues - Software Developer"
+  />
+</p>
 
-### `Software Developer • Wanderer of the Digital Realms`
-
-> **“Aut viam inveniam aut faciam.”**  
-> *Encontrarei um caminho ou criarei um.*
-
-⚔️ **Flutter** • 🜏 **Python** • 🩸 **FastAPI** • 🏰 **PostgreSQL**
-
-</div>
+<p align="center">
+  <strong>⚔️ Flutter</strong>
+  &nbsp;•&nbsp;
+  <strong>🜏 Python</strong>
+  &nbsp;•&nbsp;
+  <strong>🩸 FastAPI</strong>
+  &nbsp;•&nbsp;
+  <strong>🏰 PostgreSQL</strong>
+  &nbsp;•&nbsp;
+  <strong>⚒️ Git</strong>
+</p>
 
 ---
 
-## 🕯️ CRÔNICAS DO VIAJANTE
+# 🕯️ CRÔNICAS DO VIAJANTE
 
 ```text
-╔══════════════════════════════════════════════╗
-║              CHARACTER RECORD                ║
-╠══════════════════════════════════════════════╣
-║ Nome          │ Alisson Rodrigues            ║
-║ Classe        │ Software Developer           ║
-║ Subclasse     │ Flutter Developer            ║
-║ Caminho       │ Software Engineering         ║
-║ Especialidade │ Front-end & Back-end         ║
-║ Guilda        │ Engenharia de Software       ║
-║ Status        │ Evoluindo                    ║
-╚══════════════════════════════════════════════╝
+╔════════════════════════════════════════════════╗
+║               CHARACTER RECORD                 ║
+╠════════════════════════════════════════════════╣
+║ Nome           │ Alisson Rodrigues             ║
+║ Classe         │ Software Developer            ║
+║ Especialidade  │ Flutter • Python • FastAPI    ║
+║ Caminho        │ Software Engineering          ║
+║ Guilda         │ Engenharia de Software        ║
+║ Status         │ Em evolução                   ║
+╚════════════════════════════════════════════════╝
 ```
 
-Desenvolvedor de software e estudante de **Engenharia de Software**, interessado na construção de aplicações, APIs, sistemas corporativos e arquiteturas que consigam sobreviver ao teste mais cruel conhecido pela humanidade:
+Sou desenvolvedor de software e estudante de **Engenharia de Software**, com experiência profissional em desenvolvimento de aplicações, manutenção de sistemas, APIs, banco de dados e organização de demandas de software.
 
-**manutenção seis meses depois.**
+Minha jornada passa principalmente por **Flutter, Dart, Python, FastAPI, PostgreSQL e SQL**, buscando construir aplicações que não apenas funcionem, mas que também possam ser entendidas e mantidas depois.
 
-Minha jornada passa principalmente por **Flutter, Dart, Python, FastAPI, PostgreSQL e SQL**, além de práticas de versionamento, organização de projetos e desenvolvimento ágil.
+Porque fazer o código funcionar uma vez é fácil.
+
+O verdadeiro chefe final aparece quando alguém precisa mexer nele seis meses depois.
 
 ---
 
 # ⚔️ ATRIBUTOS
 
 ```text
-╭──────────────────────────────────────────╮
-│              CHARACTER STATS             │
-├──────────────────┬───────────────────────┤
-│ Lógica           │ █████████░  90       │
-│ Persistência     │ █████████░  90       │
-│ Criatividade     │ ████████░░  80       │
-│ Arquitetura      │ ███████░░░  70       │
-│ Banco de Dados   │ ████████░░  80       │
-│ Comunicação      │ ████████░░  80       │
-│ Café             │ ██████████  ???       │
-╰──────────────────┴───────────────────────╯
+╭──────────────────────────────────────────────╮
+│               CHARACTER STATS                │
+├──────────────────────┬───────────────────────┤
+│ Desenvolvimento      │ ████████░░            │
+│ Lógica               │ █████████░            │
+│ Backend              │ ███████░░░            │
+│ Banco de Dados       │ ████████░░            │
+│ Git / Versionamento  │ ████████░░            │
+│ Organização          │ ████████░░            │
+│ Aprendizado          │ █████████░            │
+│ Persistência         │ ██████████            │
+╰──────────────────────┴───────────────────────╯
 ```
+
+> Os atributos acima representam minhas áreas de maior familiaridade e estudo, não algum sistema científico de medição criado por magos do RH.
 
 ---
 
@@ -59,155 +75,166 @@ Minha jornada passa principalmente por **Flutter, Dart, Python, FastAPI, Postgre
 
 ## 🜏 Linguagens
 
-![Dart](https://img.shields.io/badge/Dart-0D1117?style=for-the-badge&logo=dart&logoColor=white)
-![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Dart-111118?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-111118?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-111118?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-111118?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-111118?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
 
 ## 🔮 Grimórios & Frameworks
 
-![Flutter](https://img.shields.io/badge/Flutter-0D1117?style=for-the-badge&logo=flutter&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Flutter-111118?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-111118?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-111118?style=for-the-badge&logo=node.js&logoColor=white" />
+</p>
 
 ## 🏰 Bancos & Cofres
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-111118?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
 
 ## ⚒️ Ferramentas do Ferreiro
 
-![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-0D1117?style=for-the-badge&logo=postman&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Git-111118?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-111118?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-111118?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-111118?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
 
 ---
 
 # 📜 LORE
 
-> *Nem todo aventureiro carrega uma espada.*
+Minha jornada profissional começou na área de **Tecnologia da Informação**, trabalhando com suporte, infraestrutura e resolução de problemas.
 
-Alguns carregam um notebook, uma IDE e uma quantidade preocupante de abas abertas.
+Posteriormente, avancei para o **desenvolvimento de software**, trabalhando com aplicações corporativas, implementação de funcionalidades, manutenção de sistemas, integrações, APIs e bancos de dados.
 
-Minha jornada na tecnologia começou pela área de **TI e suporte**, lidando diretamente com problemas reais, usuários reais e máquinas que aparentemente desenvolviam consciência apenas para parar de funcionar em momentos inconvenientes.
-
-Depois avancei para o **desenvolvimento de software**, trabalhando com aplicações, APIs, bancos de dados, manutenção de sistemas e implementação de novas funcionalidades.
-
-Hoje continuo expandindo esse caminho através da graduação em **Engenharia de Software** e de projetos próprios voltados ao desenvolvimento web, mobile e backend.
+Hoje continuo expandindo esse caminho por meio da graduação em **Engenharia de Software**, estudos e projetos próprios.
 
 ```text
-SUPORTE DE TI
-      │
-      ▼
-DESENVOLVIMENTO
-      │
-      ├───────────────┐
-      ▼               ▼
- FLUTTER          PYTHON
-      │               │
-      ▼               ▼
-   DART            FASTAPI
-      │               │
-      └───────┬───────┘
-              ▼
-         POSTGRESQL
-              │
-              ▼
-     SOFTWARE ENGINEERING
+                   ┌─────────────────┐
+                   │      INÍCIO      │
+                   └────────┬────────┘
+                            │
+                            ▼
+                   ┌─────────────────┐
+                   │  SUPORTE / TI   │
+                   └────────┬────────┘
+                            │
+                            ▼
+                  ┌──────────────────┐
+                  │ DESENVOLVIMENTO  │
+                  └────────┬─────────┘
+                           │
+             ┌─────────────┴─────────────┐
+             │                           │
+             ▼                           ▼
+      ┌──────────────┐           ┌──────────────┐
+      │   FLUTTER    │           │    PYTHON    │
+      │    DART      │           │   FASTAPI    │
+      └──────┬───────┘           └──────┬───────┘
+             │                           │
+             └─────────────┬─────────────┘
+                           │
+                           ▼
+                   ┌────────────────┐
+                   │   POSTGRESQL   │
+                   │      SQL       │
+                   └───────┬────────┘
+                           │
+                           ▼
+                ┌──────────────────────┐
+                │ SOFTWARE ENGINEERING │
+                └──────────────────────┘
 ```
 
 ---
 
 # 🏹 QUEST LOG
 
-### Missões concluídas
+## ✅ Missões concluídas
 
 - [x] Entrar no reino da Tecnologia
-- [x] Trabalhar com suporte e infraestrutura
-- [x] Ingressar no desenvolvimento de software
-- [x] Desenvolver aplicações com Flutter
-- [x] Trabalhar com APIs utilizando Python e FastAPI
+- [x] Trabalhar profissionalmente com suporte de TI
+- [x] Trabalhar profissionalmente com desenvolvimento de software
+- [x] Desenvolver aplicações utilizando Flutter
+- [x] Trabalhar com Dart
+- [x] Construir e consumir APIs REST
+- [x] Desenvolver backend com Python e FastAPI
 - [x] Trabalhar com PostgreSQL e SQL
-- [x] Utilizar Git e GitHub em projetos reais
+- [x] Utilizar Git e GitHub em projetos
+- [x] Trabalhar com organização de demandas e metodologias ágeis
 
-### Missões em andamento
+## 🕯️ Missões em andamento
 
-- [ ] Fortalecer meu portfólio profissional
-- [ ] Evoluir arquitetura e qualidade de software
-- [ ] Aprofundar conhecimentos em backend
-- [ ] Construir aplicações completas do frontend ao banco
-- [ ] Aprimorar práticas de testes
+- [ ] Construir um portfólio profissional forte
+- [ ] Aprofundar conhecimentos em arquitetura de software
+- [ ] Evoluir práticas de testes automatizados
 - [ ] Expandir conhecimentos em DevOps
+- [ ] Construir aplicações completas do frontend ao banco
+- [ ] Aprimorar desenvolvimento backend
+- [ ] Evoluir conhecimentos em Scrum e gestão de projetos
 - [ ] Concluir Engenharia de Software
 
 ---
 
-# 🏰 PROJETOS
+# 🏰 ARQUIVO DE ARTEFATOS
 
-> **Arquivo das obras, experimentos e artefatos construídos durante a jornada.**
+> Alguns aventureiros colecionam espadas lendárias.  
+> Eu aparentemente coleciono repositórios.
 
-### ⚔️ Projetos principais
+### ⚔️ FlowDesk
 
-```text
-┌───────────────────────────────────────────┐
-│             PROJECT ARCHIVE               │
-├───────────────────────────────────────────┤
-│ FlowDesk      │ Em desenvolvimento        │
-│ Automatize    │ Projeto acadêmico         │
-│ Novos projetos serão adicionados...       │
-└───────────────────────────────────────────┘
-```
+Sistema desenvolvido como projeto de portfólio, focado em aplicação prática de arquitetura, organização de código e desenvolvimento com Flutter.
 
-Cada projeto deste perfil representa uma etapa diferente da minha evolução como desenvolvedor.
-
-Não procuro apenas fazer algo que **funcione**.
-
-Procuro entender **por que funciona, como poderia quebrar e como poderia ser melhor construído**.
+`Flutter` • `Dart` • `Software Architecture`
 
 ---
 
-# 🩸 FILOSOFIA
+### 🧙 Automatize
+
+Projeto acadêmico envolvendo desenvolvimento de software e aplicação de conceitos de Programação Orientada a Objetos.
+
+`Python` • `POO` • `Software Engineering`
+
+---
+
+### 📚 Outros projetos
+
+Este perfil também contém projetos acadêmicos, experimentos, estudos e aplicações utilizadas durante minha evolução como desenvolvedor.
+
+Projetos mais completos e relevantes serão destacados conforme forem finalizados.
+
+---
+
+# 🔥 PRINCÍPIOS DO CÓDIGO
 
 ```python
 while alive:
-    learn()
+    study()
     build()
     fail()
     understand()
     improve()
 ```
 
-> **Conhecimento sem aplicação é apenas um grimório fechado.**
-
----
-
-# 🕯️ GITHUB STATS
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ALISSINHO-1&show_icons=true&hide_border=true&theme=transparent)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ALISSINHO-1&layout=compact&hide_border=true&theme=transparent)
-
-</div>
-
----
-
-# ☠️ CÓDIGO DO VIAJANTE
-
 ```text
-I.    Aprenda antes de fingir que sabe.
+I.    Entenda antes de copiar.
 
 II.   Não complique o que pode ser simples.
 
-III.  Código será lido mais vezes do que será escrito.
+III.  Código é escrito uma vez e lido inúmeras vezes.
 
 IV.   Um erro compreendido vale mais que uma solução copiada.
 
 V.    Versione antes de descobrir por que deveria ter versionado.
 
-VI.   Questione arquiteturas que existem apenas porque
+VI.   Questione soluções que existem apenas porque
       "sempre foi feito assim".
 
 VII.  Construa. Quebre. Entenda. Reconstrua.
@@ -215,20 +242,44 @@ VII.  Construa. Quebre. Entenda. Reconstrua.
 
 ---
 
-# 🦇 CONTATO
+# 📊 REGISTROS DA JORNADA
 
-<div align="center">
+<p align="center">
 
-### Encontrou este viajante pelos reinos digitais?
+<img
+  height="170"
+  src="https://github-readme-stats.vercel.app/api?username=ALISSINHO-1&show_icons=true&hide_border=true&theme=transparent&hide_title=true"
+/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alisson-rodrigues-biava-filho-504a32331/)
+<img
+  height="170"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALISSINHO-1&layout=compact&hide_border=true&theme=transparent"
+/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ALISSINHO-1)
+</p>
 
 ---
 
-### ☾ `MEMENTO MORI` ☽
+# 🦇 PORTAIS
 
-**Code • Learn • Build • Evolve**
+<p align="center">
+
+<a href="https://www.linkedin.com/in/alisson-rodrigues-biava-filho-504a32331/">
+  <img src="https://img.shields.io/badge/LinkedIn-111118?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/ALISSINHO-1">
+  <img src="https://img.shields.io/badge/GitHub-111118?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### ☾ MEMENTO MORI ☽
+
+`CODE • LEARN • BUILD • EVOLVE`
 
 </div>
